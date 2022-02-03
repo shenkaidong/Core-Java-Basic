@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/kaidong-shen/"> <img src="https://www.kinesisinc.com/wp-content/uploads/2020/04/linkedin-101-hero@2x-1024x540.png"></a>
+    <a href="https://www.linkedin.com/in/kaidong-shen/"> <img src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png?h=32%25&w=100%25&la=en&hash=D0E8DD162007F2CF94A6CA31F244DE55E6DBBF8E"></a>
 </div>
 <br>
 
