@@ -1,12 +1,12 @@
 # Core-Java-Basic
 
-## My Linkedin
+#### My Linkedin
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/kaidong-shen/"> <img src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png?h=32%25&w=100%25&la=en&hash=D0E8DD162007F2CF94A6CA31F244DE55E6DBBF8E" width="300px"></a>
+    <a href="https://www.linkedin.com/in/kaidong-shen/"> <img src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png?h=32%25&w=100%25&la=en&hash=D0E8DD162007F2CF94A6CA31F244DE55E6DBBF8E" width="200px"></a>
 </div>
 
-
+## Topic
 <br>
 
 | &nbsp;算法&nbsp; | 操作系统 | &nbsp;网络&nbsp;|面向对象| &nbsp;&nbsp;数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|         系统设计| &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; |编码实践| &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
