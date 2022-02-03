@@ -1,9 +1,9 @@
 # Core-Java-Basic
 
-# My Linkedin
+## My Linkedin
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/kaidong-shen/"> <img src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png?h=32%25&w=100%25&la=en&hash=D0E8DD162007F2CF94A6CA31F244DE55E6DBBF8E" width="500px"></a>
+    <a href="https://www.linkedin.com/in/kaidong-shen/"> <img src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png?h=32%25&w=100%25&la=en&hash=D0E8DD162007F2CF94A6CA31F244DE55E6DBBF8E" width="300px"></a>
 </div>
 
 
