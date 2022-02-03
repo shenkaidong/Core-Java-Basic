@@ -2,8 +2,7 @@
 
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/kaidong-shen/"> <img src="https://badgen.net/badge/CyC/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph&color=4ab8a1"></a>
-    <a href="#微信公众号"> <img src="https://badgen.net/badge/%e5%85%ac%e4%bc%97%e5%8f%b7/gh_cb7cdecbe9cc?icon=rss&color=4ab8a1"></a>
+    <a href="https://www.linkedin.com/in/kaidong-shen/"> <img src="https://www.kinesisinc.com/wp-content/uploads/2020/04/linkedin-101-hero@2x-1024x540.png"></a>
 </div>
 <br>
 
