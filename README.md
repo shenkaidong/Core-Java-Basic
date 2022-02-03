@@ -1,5 +1,11 @@
 # Core-Java-Basic
 
+# My Linkedin
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/kaidong-shen/"> <img src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png?h=32%25&w=100%25&la=en&hash=D0E8DD162007F2CF94A6CA31F244DE55E6DBBF8E" width="500px"></a>
+</div>
+
 
 <br>
 
@@ -77,46 +83,29 @@
 - [代码可读性](https://github.com/CyC2018/CS-Notes/blob/master/notes/代码可读性.md)
 - [代码风格规范](https://github.com/CyC2018/CS-Notes/blob/master/notes/代码风格规范.md)
 
-## :memo: 后记
 
-<div align="center">
-	<a href="https://www.nowcoder.com/discuss/137593?from=cyc_github"> 我的面经 </a> / <a href="https://cyc2018.github.io"> 我的简历 </a> / <a href="https://github.com/CyC2018/Markdown-Resume"> 简历模版 </a> / <a href="https://github.com/CyC2018/Job-Recommend"> 内推 </a> / <a href="https://xiaozhuanlan.com/CyC2018"> 专栏 </a> / <a href="assets/QQ2群.png"> QQ 群</a>
-	<br><br>
-    <img width="320px" src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/githubio/公众号二维码-2.png"></img>
-</div>
+### Typesetting
 
+The content of the notes is typeset according to [Chinese Copywriting Guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) to ensure the readability of the content.
 
+Instead of using `![]()` to refer to images, use `<img>` tags instead. On the one hand, it is to be able to control the image to be displayed in a suitable size, on the other hand, because [GFM](https://github.github.com/gfm/) does not support `<center> ![]() </center> ` This method makes the picture centered, you can only use `<div align="center"> <img src=""/> </div>` to achieve the centering effect.
 
-### 排版
-
-笔记内容按照 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) 进行排版，以保证内容的可读性。
-
-不使用 `![]()` 这种方式来引用图片，而是用 `<img>` 标签。一方面是为了能够控制图片以合适的大小显示，另一方面是因为 [GFM](https://github.github.com/gfm/) 不支持 `<center> ![]() </center>` 这种方法让图片居中显示，只能使用 `<div align="center"> <img src=""/> </div>` 达到居中的效果。
-
-在线排版工具：[Text-Typesetting](https://github.com/CyC2018/Text-Typesetting)。
+Online typesetting tool: [Text-Typesetting](https://github.com/CyC2018/Text-Typesetting).
 
 ### License
 
-本仓库的内容不是将网上的资料随意拼凑而来，除了少部分引用书上和技术文档的原文（这部分内容都在末尾的参考链接中加了出处），其余都是我的原创。在您引用本仓库内容或者对内容进行修改演绎时，请署名并以相同方式共享，谢谢。
+The content of this repository is not a random piece of information on the Internet. Except for a small number of quoted books and the original text of technical documents (the source of this part of the content is added in the reference link at the end), the rest are my original creations. When you cite the content of this repository or modify and deduce the content, please attribute and share it in the same way, thank you.
 
-转载文章请在开头明显处标明该页面地址，公众号等其它转载请联系 zhengyc101@163.com。
+For reprinted articles, please indicate the address of the page at the beginning. For other reprints such as public accounts, please contact kaidong.shen@foxmail.com.
 
 Logo：[logomakr](https://logomakr.com/)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-### 致谢
+### Thanks
 
-感谢以下人员对本仓库做出的贡献，当然不仅仅只有这些贡献者，这里就不一一列举了。如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系。
+Thanks to the following people for their contributions to this repository.
 
-<a href="https://github.com/linw7">
+<a href="https://github.com/shenkaidong">
     <img src="https://media.istockphoto.com/vectors/yin-yang-panda-cute-logo-vector-illustration-vector-id1170794027?k=20&m=1170794027&s=612x612&w=0&h=QvlXWRWUe2hz_WUPvczDxdcMAOvH9NCv8P-GvzCVnqw=" width="50px">
 </a> 
-
-
-
-# My Linkedin
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/kaidong-shen/"> <img src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png?h=32%25&w=100%25&la=en&hash=D0E8DD162007F2CF94A6CA31F244DE55E6DBBF8E" width="500px"></a>
-</div>
