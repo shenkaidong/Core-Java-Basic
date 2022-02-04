@@ -10,9 +10,9 @@
 
 <br>
 
-| &nbsp;DocFile&nbsp; | Homework| &nbsp;Java-Major-Concept&nbsp;|Database-Major-Concept| &nbsp;&nbsp;数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|         系统设计| &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; |编码实践| &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
+| &nbsp;DocFile&nbsp; | Homework| &nbsp;Java-Major-Concept&nbsp;|Database-Major-Concept| &nbsp;&nbsp;art&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|cloud| &nbsp;&nbsp;&nbsp;bulb&nbsp;&nbsp;&nbsp; |watermelon| &nbsp;&nbsp;&nbsp;computer&nbsp;&nbsp;&nbsp; |
 | :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [:pencil2:](#pencil2-DocFile) | [:memo:](#memo-Homework) | [:coffee:](#coffee-Java-Major-Concept) | [:floppy_disk:](#floppy_disk-Database-Major-Concept) | [:art:](#art-art) |[:cloud:](#cloud-java)| [:bulb:](#bulb-bulb) |[:wrench:](#wrench-wrench)| [:watermelon:](#watermelon-watermelon) |[:computer:](#computer-computer)|
+| [:pencil2:](#pencil2-DocFile) | [:memo:](#memo-Homework) | [:coffee:](#coffee-Java-Major-Concept) | [:floppy_disk:](#floppy_disk-Database-Major-Concept) | [:art:](#art-art) |[:cloud:](#cloud-cloud)| [:bulb:](#bulb-bulb) |[:wrench:](#wrench-wrench)| [:watermelon:](#watermelon-watermelon) |[:computer:](#computer-computer)|
 
 <br>
 
@@ -42,59 +42,19 @@
 
 ## :memo: Homework
 
-- [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机操作系统%20-%20目录.md)
-- [Linux](https://github.com/CyC2018/CS-Notes/blob/master/notes/Linux.md)
-
 ## :coffee: Java-and-Database-Major-Concept
-
-- [计算机网络](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机网络%20-%20目录.md)
-- [HTTP](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md)
-- [Socket](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
-
-## :art: art
-
-- [面向对象思想](https://github.com/CyC2018/CS-Notes/blob/master/notes/面向对象思想.md)
-- [设计模式](https://github.com/CyC2018/CS-Notes/blob/master/notes/设计模式%20-%20目录.md)
 
 ## :floppy_disk: Database-Major-Concept
 
-- [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/数据库系统原理.md)
-- [SQL](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL.md)
-- [Leetcode-Database 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode-Database%20题解.md)
-- [MySQL](https://github.com/CyC2018/CS-Notes/blob/master/notes/MySQL.md)
-- [Redis](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
+## :art: art
 
-## :cloud: Java
-
-- [Java 基础](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20基础.md)
-- [Java 容器](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20容器.md)
-- [Java 并发](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20并发.md)
-- [Java 虚拟机](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20虚拟机.md)
-- [Java I/O](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20IO.md)
+## :cloud: cloud
 
 ## :bulb: bulb 
 
-- [系统设计基础](https://github.com/CyC2018/CS-Notes/blob/master/notes/系统设计基础.md)
-- [分布式](https://github.com/CyC2018/CS-Notes/blob/master/notes/分布式.md)
-- [集群](https://github.com/CyC2018/CS-Notes/blob/master/notes/集群.md)
-- [攻击技术](https://github.com/CyC2018/CS-Notes/blob/master/notes/攻击技术.md)
-- [缓存](https://github.com/CyC2018/CS-Notes/blob/master/notes/缓存.md)
-- [消息队列](https://github.com/CyC2018/CS-Notes/blob/master/notes/消息队列.md)
-
 ## :wrench: wrench 
 
-- [Git](https://github.com/CyC2018/CS-Notes/blob/master/notes/Git.md)
-- [Docker](https://github.com/CyC2018/CS-Notes/blob/master/notes/Docker.md)
-- [构建工具](https://github.com/CyC2018/CS-Notes/blob/master/notes/构建工具.md)
-- [正则表达式](https://github.com/CyC2018/CS-Notes/blob/master/notes/正则表达式.md)
-
 ## :watermelon: watermelon 
-
-- [代码可读性](https://github.com/CyC2018/CS-Notes/blob/master/notes/代码可读性.md)
-- [代码风格规范](https://github.com/CyC2018/CS-Notes/blob/master/notes/代码风格规范.md)
-
-
-
 
 ### Typesetting
 
