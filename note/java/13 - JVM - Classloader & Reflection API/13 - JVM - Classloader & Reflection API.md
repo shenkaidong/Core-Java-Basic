@@ -7,7 +7,7 @@ Three Types of ClassLoaders
 
 <br>
 <div align="center">
-    <img src="https://github.com/shenkaidong/Core-Java-Basic/edit/master/note/java/13%20-%20JVM%20-%20Classloader%20&%20Reflection%20API//pic/Assignment_13_1.png">
+    <img src="https://github.com/shenkaidong/Core-Java-Basic/blob/master/note/java/13%20-%20JVM%20-%20Classloader%20&%20Reflection%20API/pic/Assignment_13_1.png">
 </div>
 <br>
 
