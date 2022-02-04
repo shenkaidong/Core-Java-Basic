@@ -53,16 +53,6 @@
 
 - [Database-Major-Concept](https://github.com/shenkaidong/Core-Java-Basic/tree/master/note/concept/database)
 
-## :art: art
-
-## :cloud: cloud
-
-## :bulb: bulb 
-
-## :wrench: wrench 
-
-## :watermelon: watermelon 
-
 ### Typesetting
 
 The content of the notes is typeset according to [Chinese Copywriting Guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) to ensure the readability of the content.
