@@ -12,15 +12,18 @@ Three Types of ClassLoaders
 <br>
 
 
-They are parent-child relationship.
-BootStrap ClassLoader: A Bootstrap Classloader is a Machine code which kickstarts the operation when the JVM calls it. It is not a java class. Its job is to load the first pure Java ClassLoader. Bootstrap ClassLoader loads classes from the location rt.jar. Bootstrap ClassLoader doesn’t have any parent ClassLoaders. It is also called as the Primodial ClassLoader.
-Extension ClassLoader: The Extension ClassLoader is a child of Bootstrap ClassLoader and loads the extensions of core java classes from the respective JDK Extension library. It loads files from jre/lib/ext directory or any other directory pointed by the system property java.ext.dirs.
-System ClassLoader: An Application ClassLoader is also known as a System ClassLoader. It loads the Application type classes found in the environment variable CLASSPATH, -classpath or -cp command line option. The Application ClassLoader is a child class of Extension ClassLoader.
- The Class class
-java.lang.Class is one of the most important class in java. It is used to describe the meta information inside a class. When a class is loaded from ClassLoader, one(and only one per classloader) Class object will be created.
-Every class or object can call getClass() method or .class field to get the instance of the Class class.
-Class c1 = String.class;Class c2 = "hello".getClass();Class c3 = "hi".getClass();
-System.out.println(c1 == c2); // trueSystem.out.println(c2 == c3); // true, becuase they all get the same Class object from the classloader.
+## They are parent-child relationship.  
+BootStrap ClassLoader: A Bootstrap Classloader is a Machine code which kickstarts the operation when the JVM calls it. It is not a java class. Its job is to load the first pure Java ClassLoader. Bootstrap ClassLoader loads classes from the location rt.jar. Bootstrap ClassLoader doesn’t have any parent ClassLoaders. It is also called as the Primodial ClassLoader.  
+Extension ClassLoader: The Extension ClassLoader is a child of Bootstrap ClassLoader and loads the extensions of core java classes from the respective JDK Extension library. It loads files from jre/lib/ext directory or any other directory pointed by the system property java.ext.dirs.  
+System ClassLoader: An Application ClassLoader is also known as a System ClassLoader. It loads the Application type classes found in the environment variable CLASSPATH, -classpath or -cp command line option. The Application ClassLoader is a child class of Extension ClassLoader.  
+
+## The Class class
+java.lang.Class is one of the most important class in java. It is used to describe the meta information inside a class. When a class is loaded from ClassLoader, one(and only one per classloader) Class object will be created.  
+Every class or object can call getClass() method or .class field to get the instance of the Class class. 
+```java
+Class c1 = String.class;Class c2 = "hello".getClass();Class c3 = "hi".getClass();  
+System.out.println(c1 == c2); // trueSystem.out.println(c2 == c3); // true, becuase they all get the same Class object from the classloader.  
+```
 
 The object of Class class can perform lots of useful/powerful functionalities related to the class and objects of it.
 
