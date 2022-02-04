@@ -40,7 +40,7 @@
 - [20 - Java 8 - Functional Interface & Lambda](https://github.com/shenkaidong/Core-Java-Basic/tree/master/note/java/20%20-%20Java%208%20-%20Functional%20Interface%20%26%20Lambda)
 - [21 - Java 8 - Stream API](https://github.com/shenkaidong/Core-Java-Basic/tree/master/note/java/21%20-%20Java%208%20-%20Stream%20API)
 
-## :computer: Homework
+## :memo: Homework
 
 - [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机操作系统%20-%20目录.md)
 - [Linux](https://github.com/CyC2018/CS-Notes/blob/master/notes/Linux.md)
