@@ -45,11 +45,11 @@
 ## :coffee: Java-Major-Concept
 
 - [Java-Major-Concept](https://github.com/shenkaidong/Core-Java-Basic/tree/master/note/concept/java)
-- 
+
 ## :floppy_disk: Database-Major-Concept
 
 - [Database-Major-Concept](https://github.com/shenkaidong/Core-Java-Basic/tree/master/note/concept/database)
-- 
+
 ## :art: art
 
 ## :cloud: cloud
