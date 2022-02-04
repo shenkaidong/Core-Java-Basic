@@ -17,8 +17,8 @@ static, final, public, private, void, null, package, Class, new
 11.What is String? Is it primitive type?  
 12.How to check if a String is representing a number?  
 13.Write a program to implement the following activity diagram:  
-<a href="hhttps://github.com/shenkaidong/Core-Java-Basic/blob/master/note/pic/Assignment%201_1.png?raw=true">
-    <img src="https://github.com/shenkaidong/Core-Java-Basic/blob/master/note/pic/Assignment%201_1.png?raw=true">
+<a href="https://github.com/shenkaidong/Core-Java-Basic/blob/master/note/pic/Assignment_1_1.png?raw=true">
+    <img src="https://github.com/shenkaidong/Core-Java-Basic/blob/master/note/pic/Assignment_1_1.png?raw=true">
 </a> 
 
 14.Write a program to merge two array of int.  
