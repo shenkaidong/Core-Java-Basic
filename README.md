@@ -10,9 +10,9 @@
 
 <br>
 
-| &nbsp;DocFile&nbsp; | Homework| &nbsp;Java-Concept&nbsp;|Database-Concept|;&nbsp|
+| &nbsp;DocFile&nbsp; | Homework| &nbsp;Java-Concept&nbsp; |Database-Concept|
 | :---: | :----: | :---: | :----: |
-| [:pencil2:](#pencil2-DocFile) | [:memo:](#memo-Homework) | [:coffee:](#coffee-Java-Concept) | [:floppy_disk:](#floppy_disk-Database-Concept) |
+| [:pencil2:](#pencil2-DocFile) | [:memo:](#memo-Homework) | [:coffee:](#coffee-Java-Concept) | [:floppy_disk:](#floppy_disk-Database-Concept)|
 
 <br>
 
