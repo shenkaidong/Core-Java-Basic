@@ -10,9 +10,9 @@
 
 <br>
 
-| &nbsp;DocFile&nbsp; | Homework| &nbsp;Java-and-Database-Major-Concept&nbsp;|Java and Database Major Concept| &nbsp;&nbsp;数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|         系统设计| &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; |编码实践| &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
+| &nbsp;DocFile&nbsp; | Homework| &nbsp;Java-Major-Concept&nbsp;|Database-Major-Concept| &nbsp;&nbsp;数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|         系统设计| &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; |编码实践| &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
 | :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [:pencil2:](#pencil2-DocFile) | [:memo:](#memo-Homework) | [:coffee:](#coffee-Java-and-Database-Major-Concept) | [:art:](#art-art) | [:floppy_disk:](#floppy_disk-floppy_disk) |[:cloud:](#cloud-java)| [:bulb:](#bulb-bulb) |[:wrench:](#wrench-wrench)| [:watermelon:](#watermelon-watermelon) |[:computer:](#computer-computer)|
+| [:pencil2:](#pencil2-DocFile) | [:memo:](#memo-Homework) | [:coffee:](#coffee-Java-Major-Concept) | [:floppy_disk:](#floppy_disk-Database-Major-Concept) | [:art:](#art-art) |[:cloud:](#cloud-java)| [:bulb:](#bulb-bulb) |[:wrench:](#wrench-wrench)| [:watermelon:](#watermelon-watermelon) |[:computer:](#computer-computer)|
 
 <br>
 
@@ -56,7 +56,7 @@
 - [面向对象思想](https://github.com/CyC2018/CS-Notes/blob/master/notes/面向对象思想.md)
 - [设计模式](https://github.com/CyC2018/CS-Notes/blob/master/notes/设计模式%20-%20目录.md)
 
-## :floppy_disk: floppy_disk
+## :floppy_disk: Database-Major-Concept
 
 - [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/数据库系统原理.md)
 - [SQL](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL.md)
