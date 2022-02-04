@@ -1,6 +1,6 @@
 ## Primitive Types  
 
-There are 8: boolean , byte , char , short , int , long , float and double.  
+There are 8: **boolean**, **byte** , **char** , **short** , **int** , **long** , **float** and **double**.  
   
 They don't have any method. Because primitive type variables are directly pointing to the value not object.  
 
@@ -10,14 +10,14 @@ Can be compared with == 
 Annotations. Class. Interface. Enum. Array.  
 
 They are pointing to the reference of an object.  
-```
+```java
 Object o = new Object();Object o1 = o;// o1 and o are pointing to the save object
 ```
 
 Compare with == : Will compare the reference value ( the pointed location)  
 Compare with equals(Object obj) : Will call the equals method of the object (default is ==, but we can override)  
 
-```
+```java
 o1 == o; // true  
 o1.equals(o); // true, because by default equals is implemented by ==. Check the Object class.
 class Apple{
@@ -44,7 +44,7 @@ All types are passed by value when calling a method.
 
 For primitive types:  
 
-```
+```java
 public void method1(){
   int i = 100;
   doSomething(i);
@@ -57,7 +57,7 @@ public void doSomething(int i) {. // the i here is a local variable. value is co
 
 For reference types:  
 
-```
+```java
 public void method1(){
   Apple a1 = new Apple("RED");
   doSomething(a1);
@@ -73,7 +73,7 @@ public void doSomething(Apple a){ // a can be any name, because it will be a cop
 
 Reference value is difference from 'Object value', Objects are never passed, References are.  
 
-```
+```java
 public void method1(){
   Apple a1 = new Apple("RED");
   doSomething(a1);
