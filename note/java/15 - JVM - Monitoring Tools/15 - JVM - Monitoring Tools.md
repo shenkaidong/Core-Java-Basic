@@ -3,7 +3,7 @@
 
 <br>
 <div align="center">
-    <img src="https://github.com/shenkaidong/Core-Java-Basic/edit/master/note/java/15%20-%20JVM%20-%20Monitoring%20Tools/pic/Assignment_14_1.png">
+    <img src="https://github.com/shenkaidong/Core-Java-Basic/blob/master/note/java/15%20-%20JVM%20-%20Monitoring%20Tools/pic/Assignment_15_1.png">
 </div>
 <br>
 
@@ -12,7 +12,7 @@
 
 <br>
 <div align="center">
-    <img src="https://github.com/shenkaidong/Core-Java-Basic/edit/master/note/java/15%20-%20JVM%20-%20Monitoring%20Tools/pic/Assignment_14_2.png">
+    <img src="https://github.com/shenkaidong/Core-Java-Basic/edit/master/note/java/15%20-%20JVM%20-%20Monitoring%20Tools/pic/Assignment_15_2.png">
 </div>
 <br>
 
@@ -21,7 +21,7 @@
 
 <br>
 <div align="center">
-    <img src="https://github.com/shenkaidong/Core-Java-Basic/edit/master/note/java/15%20-%20JVM%20-%20Monitoring%20Tools/pic/Assignment_14_3.png">
+    <img src="https://github.com/shenkaidong/Core-Java-Basic/edit/master/note/java/15%20-%20JVM%20-%20Monitoring%20Tools/pic/Assignment_15_3.png">
 </div>
 <br>
  
