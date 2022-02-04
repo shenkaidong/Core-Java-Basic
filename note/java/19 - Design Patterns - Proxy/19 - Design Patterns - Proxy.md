@@ -8,7 +8,7 @@ Caller refers the object using interface type. So both proxy and real object can
 
 <br>
 <div align="center">
-    <img src="https://github.com/shenkaidong/Core-Java-Basic/edit/master/note/java/19%20-%20Design%20Patterns%20-%20Proxy/pic/Assignment_19_1.png">
+    <img src="https://github.com/shenkaidong/Core-Java-Basic/blob/master/note/java/19%20-%20Design%20Patterns%20-%20Proxy/pic/Assignment_19_1.png">
 </div>
 <br>
  
