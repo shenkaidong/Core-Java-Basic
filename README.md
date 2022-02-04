@@ -78,3 +78,10 @@ Thanks to the following people for their contributions to this repository.
 <a href="https://github.com/shenkaidong">
     <img src="https://media.istockphoto.com/vectors/yin-yang-panda-cute-logo-vector-illustration-vector-id1170794027?k=20&m=1170794027&s=612x612&w=0&h=QvlXWRWUe2hz_WUPvczDxdcMAOvH9NCv8P-GvzCVnqw=" width="50px">
 </a> 
+
+
+
+## License
+
+[Apache](LICENSE) 
+
