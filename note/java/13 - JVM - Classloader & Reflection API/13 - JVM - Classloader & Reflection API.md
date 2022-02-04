@@ -23,6 +23,8 @@ Class c1 = String.class;Class c2 = "hello".getClass();Class c3 = "hi".getClass()
 System.out.println(c1 == c2); // trueSystem.out.println(c2 == c3); // true, becuase they all get the same Class object from the classloader.
 
 The object of Class class can perform lots of useful/powerful functionalities related to the class and objects of it.
+
+```java
 // a demo classclass Apple{
     private String color;
 
@@ -47,10 +49,16 @@ public class ChangeDataType {
         methods[0].invoke(a);
         fields[0].set(a,"newValue");
     }}
-Reflection API
+    
+```
+
+## Reflection API
+
 As the code above, using reflection api, developers don't need to know the class utill at the runtime. Reflection gives us information about the class to which an object belongs and also the methods of that class which can be executed by using the object. Through reflection we can invoke methods at runtime irrespective of the access specifier used with them.
 Combine with annotations, using reflection api can achieve lots of framework jobs. 
 Below is a small "framework" to print out company value in the annotation Antra.
+
+```java
 // Framework code: Annotation@Target({ElementType.METHOD,ElementType.TYPE,ElementType.FIELD})@Retention(RetentionPolicy.RUNTIME)public @interface Antra {
     String companyValue() default "Java is the best";}
 // Scanning classpublic class ScanDemo {
@@ -106,6 +114,6 @@ Below is a small "framework" to print out company value in the annotation Antra.
     public static void main(String[] args) {
         ScanDemo.scanThisClass("net.antra.design.scan.Apple");
     }}
-
+```
 
 https://www.youtube.com/watch?v=_7KOeW05qZc
