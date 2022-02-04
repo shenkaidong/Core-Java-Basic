@@ -63,7 +63,7 @@ Online typesetting tool: [Text-Typesetting](https://github.com/CyC2018/Text-Type
 
 ### License
 
-The content of this repository is not a random piece of information on the Internet and LMS - Learning Management System. Except for a small number of quoted books and the original text of technical documents (the source of this part of the content is added in the reference link at the end), the rest are my original creations. When you cite the content of this repository or modify and deduce the content, please attribute and share it in the same way, thank you.
+The content of this repository is not a random piece of information on the Internet and Antra LMS - Learning Management System. Except for a small number of quoted books and the original text of technical documents (the source of this part of the content is added in the reference link at the end), the rest are my original creations. When you cite the content of this repository or modify and deduce the content, please attribute and share it in the same way, thank you.
 
 For reprinted articles, please indicate the address of the page at the beginning. For other reprints such as public accounts, please contact kaidong.shen@foxmail.com.
 
