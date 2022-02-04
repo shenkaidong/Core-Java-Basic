@@ -42,7 +42,7 @@
 
 ## :memo: Homework
 
-## :coffee: Java-and-Database-Major-Concept
+## :coffee: Java-Major-Concept
 
 ## :floppy_disk: Database-Major-Concept
 
