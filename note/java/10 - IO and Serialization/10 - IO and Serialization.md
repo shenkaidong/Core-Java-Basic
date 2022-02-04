@@ -11,7 +11,7 @@ Reader and Writer are two parents classes.
 
 <br>
 <div align="center">
-    <img src="https://github.com/shenkaidong/Core-Java-Basic/edit/master/note/java/10%20-%20IO%20and%20Serialization/pic/Assignment_10_1.png">
+    <img src="https://github.com/shenkaidong/Core-Java-Basic/blob/master/note/java/10%20-%20IO%20and%20Serialization/pic/Assignment_10_1.png">
 </div>
 <br>
 
