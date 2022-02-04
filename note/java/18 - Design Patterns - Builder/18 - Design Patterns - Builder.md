@@ -91,4 +91,5 @@ public class Department {// these are the real variables of Department.
 ## Differences between factory and builder
 Factory is to hide the creation of the object from the client.  
 Client doesn't know how the objects are created. Just ask for it and use it.  
+
 Builder is to simplify the creation of the obejct if there are too many attributes to set. Client knows exactly what to set.
