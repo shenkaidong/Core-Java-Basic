@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-    <img src="https://github.com/shenkaidong/Core-Java-Basic/edit/master/note/java/14%20-%20JVM%20-%20Garbage%20Collector/pic/Assignment_14_1.png">
+    <img src="https://github.com/shenkaidong/Core-Java-Basic/blob/master/note/java/14%20-%20JVM%20-%20Garbage%20Collector/pic/Assignment_14_1.png">
 </div>
 <br>
 
@@ -35,7 +35,7 @@ The heap is broken up into smaller parts or generations. The heap parts are: You
 
 <br>
 <div align="center">
-    <img src="https://github.com/shenkaidong/Core-Java-Basic/edit/master/note/java/14%20-%20JVM%20-%20Garbage%20Collector/pic/Assignment_14_2.png">
+    <img src="https://github.com/shenkaidong/Core-Java-Basic/blob/master/note/java/14%20-%20JVM%20-%20Garbage%20Collector/pic/Assignment_14_2.png">
 </div>
 <br>
 
