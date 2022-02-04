@@ -83,5 +83,5 @@ Thanks to the following people for their contributions to this repository.
 
 ## License
 
-[Apache](LICENSE) 
+[Apache](LICENSE) © [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) 
 
