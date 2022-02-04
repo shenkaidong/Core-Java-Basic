@@ -33,7 +33,7 @@ Threads are objects. It takes memory and consumes computation power. To reduce t
 
 <br>
 <div align="center">
-    <img src="https://github.com/shenkaidong/Core-Java-Basic/edit/master/note/java/11%20-%20Synchronization%20&%20Thread/Assignment_11_1.png">
+    <img src="https://github.com/shenkaidong/Core-Java-Basic/blob/master/note/java/11%20-%20Synchronization%20&%20Thread/Assignment_11_1.png">
 </div>
 <br>
 
