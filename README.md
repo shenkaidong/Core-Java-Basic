@@ -9,9 +9,9 @@
 ## Topic
 <br>
 
-| &nbsp;DocFile&nbsp; | 操作系统 | &nbsp;网络&nbsp;|面向对象| &nbsp;&nbsp;数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|         系统设计| &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; |编码实践| &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
-| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [:pencil2:](#pencil2-DocFile) | [:computer:](#computer-操作系统) | [:cloud:](#cloud-网络) | [:art:](#art-面向对象) | [:floppy_disk:](#floppy_disk-数据库) |[:coffee:](#coffee-java)| [:bulb:](#bulb-系统设计) |[:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践) |[:memo:](#memo-后记)|
+| &nbsp;DocFile&nbsp; | Operating Systems| &nbsp;Network&nbsp;|Object Oriented| &nbsp;&nbsp;Database&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;| System Design| Tools&nbsp;&nbsp;&nbsp; |Coding Practices| &nbsp;&nbsp;&nbsp;Postscript&nbsp;&nbsp;&nbsp; |
+| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :- ---: | :----: | :----: |
+| [:pencil2:](#pencil2-DocFile) | [:computer:](#computer-operating system) | [:cloud:](#cloud-network) | [:art:](#art-object-oriented) | [:floppy_disk:](#floppy_disk-database) |[:coffee:](#coffee-java)| [:bulb:](#bulb-system design) |[:wrench:](#wrench-tools)| [:watermelon:](#watermelon-coding practice) |[:memo:](#memo-postscript)|
 
 <br>
 
@@ -43,61 +43,58 @@
 - [21 - Java 8 - Stream API](https://github.com/shenkaidong/Core-Java-Basic/tree/master/note/java/21%20-%20Java%208%20-%20Stream%20API)
 
 
+## :computer:operating system
 
-
-
-## :computer: 操作系统
-
-- [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机操作系统%20-%20目录.md)
+- [Computer OS](https://github.com/CyC2018/CS-Notes/blob/master/notes/ComputerOS%20-%20Catalog.md)
 - [Linux](https://github.com/CyC2018/CS-Notes/blob/master/notes/Linux.md)
 
-## :cloud: 网络 
+## :cloud: network
 
-- [计算机网络](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机网络%20-%20目录.md)
+- [Computer Network](https://github.com/CyC2018/CS-Notes/blob/master/notes/Computer Network%20-%20Catalog.md)
 - [HTTP](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md)
 - [Socket](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
 
-## :art: 面向对象
+## :art: Object Oriented
 
-- [面向对象思想](https://github.com/CyC2018/CS-Notes/blob/master/notes/面向对象思想.md)
-- [设计模式](https://github.com/CyC2018/CS-Notes/blob/master/notes/设计模式%20-%20目录.md)
+- [Object-Oriented Thought](https://github.com/CyC2018/CS-Notes/blob/master/notes/Object-Oriented Thought.md)
+- [Design Patterns](https://github.com/CyC2018/CS-Notes/blob/master/notes/Design Patterns%20-%20Catalog.md)
 
-## :floppy_disk: 数据库
+## :floppy_disk: database
 
-- [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/数据库系统原理.md)
+- [Principle of Database System](https://github.com/CyC2018/CS-Notes/blob/master/notes/Principle of Database System.md)
 - [SQL](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL.md)
-- [Leetcode-Database 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode-Database%20题解.md)
+- [Leetcode-Database Problem Solution](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode-Database%20 Problem Solution.md)
 - [MySQL](https://github.com/CyC2018/CS-Notes/blob/master/notes/MySQL.md)
 - [Redis](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
 
 ## :coffee: Java
 
-- [Java 基础](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20基础.md)
-- [Java 容器](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20容器.md)
-- [Java 并发](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20并发.md)
-- [Java 虚拟机](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20虚拟机.md)
+- [Java Basics](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20Basics.md)
+- [Java Container](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20Container.md)
+- [Java Concurrency](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20Concurrency.md)
+- [Java Virtual Machine](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20Virtual Machine.md)
 - [Java I/O](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20IO.md)
 
-## :bulb: 系统设计 
+## :bulb: system design
 
-- [系统设计基础](https://github.com/CyC2018/CS-Notes/blob/master/notes/系统设计基础.md)
-- [分布式](https://github.com/CyC2018/CS-Notes/blob/master/notes/分布式.md)
-- [集群](https://github.com/CyC2018/CS-Notes/blob/master/notes/集群.md)
-- [攻击技术](https://github.com/CyC2018/CS-Notes/blob/master/notes/攻击技术.md)
-- [缓存](https://github.com/CyC2018/CS-Notes/blob/master/notes/缓存.md)
-- [消息队列](https://github.com/CyC2018/CS-Notes/blob/master/notes/消息队列.md)
+- [System Design Fundamentals](https://github.com/CyC2018/CS-Notes/blob/master/notes/System Design Fundamentals.md)
+- [Distributed](https://github.com/CyC2018/CS-Notes/blob/master/notes/distributed.md)
+- [Cluster](https://github.com/CyC2018/CS-Notes/blob/master/notes/cluster.md)
+- [attack technique](https://github.com/CyC2018/CS-Notes/blob/master/notes/attack technique.md)
+- [cache](https://github.com/CyC2018/CS-Notes/blob/master/notes/cache.md)
+- [MessageQueue](https://github.com/CyC2018/CS-Notes/blob/master/notes/MessageQueue.md)
 
-## :wrench: 工具 
+## :wrench: tools
 
 - [Git](https://github.com/CyC2018/CS-Notes/blob/master/notes/Git.md)
 - [Docker](https://github.com/CyC2018/CS-Notes/blob/master/notes/Docker.md)
-- [构建工具](https://github.com/CyC2018/CS-Notes/blob/master/notes/构建工具.md)
-- [正则表达式](https://github.com/CyC2018/CS-Notes/blob/master/notes/正则表达式.md)
+- [buildtools](https://github.com/CyC2018/CS-Notes/blob/master/notes/buildtools.md)
+- [Regular Expressions](https://github.com/CyC2018/CS-Notes/blob/master/notes/regex.md)
 
-## :watermelon: 编码实践 
+## :watermelon: coding practices
 
-- [代码可读性](https://github.com/CyC2018/CS-Notes/blob/master/notes/代码可读性.md)
-- [代码风格规范](https://github.com/CyC2018/CS-Notes/blob/master/notes/代码风格规范.md)
+- [CodeReadability](https://github.com/CyC2018/CS-Notes/blob/master/notes/CodeReadability.md)
+- [Code Style Specification](https://github.com/CyC2018/CS-Notes/blob/master/notes/Code Style Specification.md)
 
 
 ### Typesetting
