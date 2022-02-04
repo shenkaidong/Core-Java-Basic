@@ -11,7 +11,7 @@
 <br>
 
 | &nbsp;DocFile&nbsp; | Homework| &nbsp;Java-Concept&nbsp;|Database-Concept|;&nbsp;art&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;cloud&nbsp;&nbsp;&nbsp;|cloud| &nbsp;&nbsp;&nbsp;bulb&nbsp;&nbsp;&nbsp; |watermelon| &nbsp;&nbsp;&nbsp;computer&nbsp;&nbsp;&nbsp;&nbsp|
-| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| :---: | :----: | :---: | :----: |
 | [:pencil2:](#pencil2-DocFile) | [:memo:](#memo-Homework) | [:coffee:](#coffee-Java-Concept) | [:floppy_disk:](#floppy_disk-Database-Concept) |
 
 <br>
