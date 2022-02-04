@@ -84,5 +84,5 @@ public void doSomething(Apple a){
 ```
  
 ## Immutable Class vs Final Class
-https://www.youtube.com/watch?v=HiA5bSF_wyA
-https://www.youtube.com/watch?v=Epatg0uqwg0
+https://www.youtube.com/watch?v=HiA5bSF_wyA  
+https://www.youtube.com/watch?v=Epatg0uqwg0  
