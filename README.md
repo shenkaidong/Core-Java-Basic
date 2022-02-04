@@ -10,9 +10,9 @@
 
 <br>
 
-| &nbsp;DocFile&nbsp; | Homework| &nbsp;Java-Major-Concept&nbsp;|Database-Major-Concept| &nbsp;&nbsp;art&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;cloud&nbsp;&nbsp;&nbsp;|cloud| &nbsp;&nbsp;&nbsp;bulb&nbsp;&nbsp;&nbsp; |watermelon| &nbsp;&nbsp;&nbsp;computer&nbsp;&nbsp;&nbsp; |
+| &nbsp;DocFile&nbsp; | Homework| &nbsp;Java-Concept&nbsp;|Database-Concept| &nbsp;&nbsp;art&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;cloud&nbsp;&nbsp;&nbsp;|cloud| &nbsp;&nbsp;&nbsp;bulb&nbsp;&nbsp;&nbsp; |watermelon| &nbsp;&nbsp;&nbsp;computer&nbsp;&nbsp;&nbsp; |
 | :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [:pencil2:](#pencil2-DocFile) | [:memo:](#memo-Homework) | [:coffee:](#coffee-Java-Major-Concept) | [:floppy_disk:](#floppy_disk-Database-Major-Concept) | [:art:](#art-art) |[:cloud:](#cloud-cloud)| [:bulb:](#bulb-bulb) |[:wrench:](#wrench-wrench)| [:watermelon:](#watermelon-watermelon) |[:computer:](#computer-computer)|
+| [:pencil2:](#pencil2-DocFile) | [:memo:](#memo-Homework) | [:coffee:](#coffee-Java-Concept) | [:floppy_disk:](#floppy_disk-Database-Concept) | [:art:](#art-art) |[:cloud:](#cloud-cloud)| [:bulb:](#bulb-bulb) |[:wrench:](#wrench-wrench)| [:watermelon:](#watermelon-watermelon) |[:computer:](#computer-computer)|
 
 <br>
 
@@ -45,11 +45,11 @@
 - [Learning Management System Assignments](https://github.com/shenkaidong/Core-Java-Basic/tree/master/CoreJavaCode/src/main/java/lmsAssignments)
 - [Class Homeworks](https://github.com/shenkaidong/Core-Java-Basic/tree/master/CoreJavaCode/src/main/java/homeworks)
 
-## :coffee: Java-Major-Concept
+## :coffee: Java-Concept
 
 - [Java-Major-Concept](https://github.com/shenkaidong/Core-Java-Basic/tree/master/note/concept/java)
 
-## :floppy_disk: Database-Major-Concept
+## :floppy_disk: Database-Concept
 
 - [Database-Major-Concept](https://github.com/shenkaidong/Core-Java-Basic/tree/master/note/concept/database)
 
