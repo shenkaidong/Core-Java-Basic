@@ -20,8 +20,8 @@
 
 ## :pencil2: DocFile
 
-- [01 - Basics](https://github.com/CyC2018/CS-Notes/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
-- [02 - Materials](https://github.com/CyC2018/CS-Notes/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
+- [01 - Basics](https://github.com/shenkaidong/Core-Java-Basic/tree/master/note/java/01%20-%20Basics)
+- [02 - Materials](https://github.com/shenkaidong/Core-Java-Basic/tree/master/note/java/02%20-%20Materials)
 - [03 - Data Types](https://github.com/CyC2018/CS-Notes/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
 - [04 - OOP principles](https://github.com/CyC2018/CS-Notes/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
 - [05 - Exception Handling](https://github.com/CyC2018/CS-Notes/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
