@@ -21,7 +21,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>day1</module>
+        <module>CoreJavaCode</module>
     </modules>
 
 
