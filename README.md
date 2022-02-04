@@ -8,6 +8,13 @@
 
 ## Topic
 
+<br>
+
+| &nbsp;DocFile&nbsp; | Homework | &nbsp;网络&nbsp;|面向对象| &nbsp;&nbsp;数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|         系统设计| &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; |编码实践| &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
+| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| [:pencil2:](#pencil2-DocFile) | [:memo:](#memo-Homework) | [:cloud:](#cloud-网络) | [:art:](#art-面向对象) | [:floppy_disk:](#floppy_disk-数据库) |[:coffee:](#coffee-java)| [:bulb:](#bulb-系统设计) |[:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践) |[:computer:](#computer-后记)|
+
+<br>
 
 ## :pencil2: DocFile
 
@@ -33,31 +40,7 @@
 - [20 - Java 8 - Functional Interface & Lambda](https://github.com/shenkaidong/Core-Java-Basic/tree/master/note/java/20%20-%20Java%208%20-%20Functional%20Interface%20%26%20Lambda)
 - [21 - Java 8 - Stream API](https://github.com/shenkaidong/Core-Java-Basic/tree/master/note/java/21%20-%20Java%208%20-%20Stream%20API)
 
-
-<br>
-
-| &nbsp;算法&nbsp; | 操作系统 | &nbsp;网络&nbsp;|面向对象| &nbsp;&nbsp;数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|         系统设计| &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; |编码实践| &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
-| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [:pencil2:](#pencil2-算法) | [:computer:](#computer-操作系统) | [:cloud:](#cloud-网络) | [:art:](#art-面向对象) | [:floppy_disk:](#floppy_disk-数据库) |[:coffee:](#coffee-java)| [:bulb:](#bulb-系统设计) |[:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践) |[:memo:](#memo-后记)|
-
-<br>
-
-<div align="center">
-    <img src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/githubio/LogoMakr_0zpEzN.png" width="200px">
-</div>
-
-
-
-<br>
-
-## :pencil2: 算法
-
-- [剑指 Offer 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
-- [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20题解%20-%20目录.md)
-- [算法](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
-- [笔试面试题库](https://www.nowcoder.com/contestRoom?from=cyc_github)
-
-## :computer: 操作系统
+## :computer: Homework
 
 - [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机操作系统%20-%20目录.md)
 - [Linux](https://github.com/CyC2018/CS-Notes/blob/master/notes/Linux.md)
