@@ -10,7 +10,7 @@
 
 <br>
 
-| &nbsp;DocFile&nbsp; | Homework| &nbsp;Java-Major-Concept&nbsp;|Database-Major-Concept| &nbsp;&nbsp;art&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|cloud| &nbsp;&nbsp;&nbsp;bulb&nbsp;&nbsp;&nbsp; |watermelon| &nbsp;&nbsp;&nbsp;computer&nbsp;&nbsp;&nbsp; |
+| &nbsp;DocFile&nbsp; | Homework| &nbsp;Java-Major-Concept&nbsp;|Database-Major-Concept| &nbsp;&nbsp;art&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;cloud&nbsp;&nbsp;&nbsp;|cloud| &nbsp;&nbsp;&nbsp;bulb&nbsp;&nbsp;&nbsp; |watermelon| &nbsp;&nbsp;&nbsp;computer&nbsp;&nbsp;&nbsp; |
 | :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | [:pencil2:](#pencil2-DocFile) | [:memo:](#memo-Homework) | [:coffee:](#coffee-Java-Major-Concept) | [:floppy_disk:](#floppy_disk-Database-Major-Concept) | [:art:](#art-art) |[:cloud:](#cloud-cloud)| [:bulb:](#bulb-bulb) |[:wrench:](#wrench-wrench)| [:watermelon:](#watermelon-watermelon) |[:computer:](#computer-computer)|
 
