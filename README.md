@@ -42,6 +42,9 @@
 
 ## :memo: Homework
 
+- [Learning Management System Assignments](https://github.com/shenkaidong/Core-Java-Basic/tree/master/CoreJavaCode/src/main/java/lmsAssignments)
+- [Class Homeworks](https://github.com/shenkaidong/Core-Java-Basic/tree/master/CoreJavaCode/src/main/java/homeworks)
+
 ## :coffee: Java-Major-Concept
 
 - [Java-Major-Concept](https://github.com/shenkaidong/Core-Java-Basic/tree/master/note/concept/java)
@@ -76,7 +79,7 @@ For reprinted articles, please indicate the address of the page at the beginning
 
 Logo：[logomakr](https://logomakr.com/)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
 ### Thanks
 
