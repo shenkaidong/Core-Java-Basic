@@ -2,8 +2,9 @@ Annotations provice data about a program that is not part of the program it se
 Annotations have no direct effect on the operation of the code they annotate. That is to say, annotation does not have any functionality utill it is read by some other tools or code.  
 
 ```java
-             // the override annotation is to tell the java compiler that the method is a @Override    //overrding method, the compiler will double check.public int hashCode(){
-  return 0;}
+             // the override annotation is to tell the java compiler that the method is a @Override    
+             //overrding method, the compiler will double check.public int hashCode(){
+  // return 0;}
 ```
  
 Annotations can be put on classes, methods, variables, parameters.  
