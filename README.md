@@ -7,7 +7,7 @@
 </div>
 
 ## For Advanced Java
-Please go to this link here(https://github.com/shenkaidong/Advanced-Java).
+Please go to this link [here](https://github.com/shenkaidong/Advanced-Java).
 
 ## Topic
 
