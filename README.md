@@ -6,9 +6,6 @@
     <a href="https://www.linkedin.com/in/kaidong-shen/"> <img src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png?h=32%25&w=100%25&la=en&hash=D0E8DD162007F2CF94A6CA31F244DE55E6DBBF8E" width="200px"></a>
 </div>
 
-## For Advanced Java
-Please visit [here](https://github.com/shenkaidong/Advanced-Java).
-
 ## Topic
 
 <br>
@@ -18,6 +15,9 @@ Please visit [here](https://github.com/shenkaidong/Advanced-Java).
 | [:pencil2:](#pencil2-DocFile) | [:memo:](#memo-Homework) | [:coffee:](#coffee-Java-Concept) | [:floppy_disk:](#floppy_disk-Database-Concept)|
 
 <br>
+
+## Go to Advanced Java
+If you looking for Advanced Java, please visit [here](https://github.com/shenkaidong/Advanced-Java).
 
 ## :pencil2: DocFile
 
